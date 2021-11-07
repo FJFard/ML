@@ -9,7 +9,7 @@ files
 Binary classification problem. Built models: 
 Logistic Regression, Naive Bayes, K-Nearest Neighbors, Support Vector Machine, Random Forest, and Multi-Layer Perceptron (Neural Networks)
 
-### Diagnose Breast Cancer .ipynb
+### Diagnose Breast Cancer.ipynb
 
 Binary classification problem. Built models:
 K-Nearest Neighbors and Support Vector Machine
@@ -19,15 +19,15 @@ K-Nearest Neighbors and Support Vector Machine
 Binary classification problem. Built models:
 Logistic Regression and Naive Bayes
 
-### Distinguish Silhouette of Vehicles .ipynb
+### Distinguish Silhouette of Vehicles.ipynb
 
 Multi-classification problem. Built models:
 PCA Algorithm and Support Vector Machine
 
-### MPG Cars Prediction - Linear Regression solution.ipynb
+### MPG Cars Prediction.ipynb
 
 Regression problem. Built models:
-Linear Regression
+Linear Regression, ElasticNet (L1 and L2 regularization)
 
 ### Personal Loan Prediction.ipynb
 
